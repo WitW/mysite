@@ -1,0 +1,283 @@
+1510901951468	geckodriver	INFO	geckodriver 0.19.1
+1510901951486	geckodriver	INFO	Listening on 127.0.0.1:63314
+1510901953584	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.oOyQTSMwqjDh"
+1510901960418	Marionette	INFO	Enabled via --marionette
+1510901975117	Marionette	INFO	Listening on port 63326
+1510901976712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510901976857	Marionette	DEBUG	Register listener.js for window 4294967297
+1510901987660	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510901988691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510901988691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510901988731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510901989811	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510901991754	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1510901992443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510901996270	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+[Child 15020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510902233567	geckodriver	INFO	geckodriver 0.19.1
+1510902233587	geckodriver	INFO	Listening on 127.0.0.1:63934
+1510902235507	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.2qP0dhNwTu3N"
+1510902238136	Marionette	INFO	Enabled via --marionette
+1510902244547	Marionette	INFO	Listening on port 63943
+1510902245027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510902245149	Marionette	DEBUG	Register listener.js for window 4294967297
+1510902255333	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510902255478	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510902255479	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510902255506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902255678	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ window 4294967297
+1510902692966	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510902693056	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510902693057	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510902693086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902693236	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+[Parent 2448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510902776973	geckodriver	INFO	geckodriver 0.19.1
+1510902776993	geckodriver	INFO	Listening on 127.0.0.1:64851
+1510902778929	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.z0DE1GmZV8pT"
+1510902780343	Marionette	INFO	Enabled via --marionette
+[Child 10452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510902789340	Marionette	INFO	Listening on port 64861
+1510902789451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510902789556	Marionette	DEBUG	Register listener.js for window 4294967297
+1510902799590	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510902799750	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510902799751	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510902799779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902799954	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902821837	geckodriver	INFO	geckodriver 0.19.1
+1510902821854	geckodriver	INFO	Listening on 127.0.0.1:64952
+1510902823793	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.4ZkNPLiFxPq9"
+1510902825279	Marionette	INFO	Enabled via --marionette
+[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510902830561	Marionette	INFO	Listening on port 64960
+1510902831194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510902831283	Marionette	DEBUG	Register listener.js for window 4294967297
+1510902841312	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510902841404	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510902841405	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510902841417	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902841606	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510902896199	geckodriver	INFO	geckodriver 0.19.1
+1510902896219	geckodriver	INFO	Listening on 127.0.0.1:65101
+1510902898164	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.0AXkeKBVdSNV"
+1510902899580	Marionette	INFO	Enabled via --marionette
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510902905554	Marionette	INFO	Listening on port 65110
+1510902906062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510902906160	Marionette	DEBUG	Register listener.js for window 4294967297
+1510902916184	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510902916271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510902916271	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510902916284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902916461	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+[Child 12872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Register listener.js for window 4294967297
+1510902956661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510902967751	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510902967751	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510902967779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510902967934	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510903125683	geckodriver	INFO	geckodriver 0.19.1
+1510903125704	geckodriver	INFO	Listening on 127.0.0.1:1060
+1510903127597	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.cAflNTowoPNr"
+1510903129044	Marionette	INFO	Enabled via --marionette
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510903134733	Marionette	INFO	Listening on port 1069
+1510903134991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510903135082	Marionette	DEBUG	Register listener.js for window 4294967297
+1510903145149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510903145275	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510903145276	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510903145288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510903145487	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+[Child 12004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510903179439	Marionette	INFO	Listening on port 1180
+1510903179613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510903179693	Marionette	DEBUG	Register listener.js for window 4294967297
+1510903199733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510903199837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510903199837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510903199851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+1510903200065	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_2.html"
+[Child 14680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510903431299	geckodriver	INFO	geckodriver 0.19.1
+1510903431318	geckodriver	INFO	Listening on 127.0.0.1:1642
+1510903433151	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.7soWOizE1x71"
+1510903434743	Marionette	INFO	Enabled via --marionette
+1510903440133	Marionette	INFO	Listening on port 1650
+1510903440554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510903440641	Marionette	DEBUG	Register listener.js for window 4294967297
+1510903454679	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1510903460671	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510903460760	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510903460761	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510903460775	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510903460782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510903460998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://210.34.130.210/eportal/index.jsp?wlanuserip=a1319f30b1a9d6fb48c65d3ef6032efe&wlanacname=355747ff48f3a490&ssid=&nasip=365cfa093433e323e7089c2f8c88d379&snmpagentip=&mac=65b502298445ebcfe66587e8fc84aff6&t=wireless-v2&url=7a5a429a7f70b8e1ca1e91441b2be7663adb453801950bc8dd6a81c81e07121b96bdf06b2181dc85d5ec5f4ca13655275f798dbd1726e911&apmac=&nasid=355747ff48f3a490&vid=e7b8e55dea3e3420&port=f428ddd9b6748f28&nasportid=f68f49623ce287a7041122fb4f2c4f26b7172f049cdaa4c2ca509c652870daf18fab5fc677b539b9"
+1510903461056	Marionette	DEBUG	Received DOM event "pageshow" for "http://210.34.130.210/eportal/index.jsp?wlanuserip=a1319f30b1a9d6fb48c65d3ef6032efe&wlanacname=355747ff48f3a490&ssid=&nasip=365cfa093433e323e7089c2f8c88d379&snmpagentip=&mac=65b502298445ebcfe66587e8fc84aff6&t=wireless-v2&url=7a5a429a7f70b8e1ca1e91441b2be7663adb453801950bc8dd6a81c81e07121b96bdf06b2181dc85d5ec5f4ca13655275f798dbd1726e911&apmac=&nasid=355747ff48f3a490&vid=e7b8e55dea3e3420&port=f428ddd9b6748f28&nasportid=f68f49623ce287a7041122fb4f2c4f26b7172f049cdaa4c2ca509c652870daf18fab5fc677b539b9"
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510903572892	geckodriver	INFO	geckodriver 0.19.1
+1510903572913	geckodriver	INFO	Listening on 127.0.0.1:1927
+1510903574864	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.FcVxHIwLfVH3"
+1510903576103	Marionette	INFO	Enabled via --marionette
+1510903581939	Marionette	INFO	Listening on port 1936
+1510903582250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510903582329	Marionette	DEBUG	Register listener.js for window 4294967297
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1510903602363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510903602417	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510903602417	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510903602432	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510903602436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510903602648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://210.34.130.210/eportal/index.jsp?wlanuserip=a1319f30b1a9d6fb48c65d3ef6032efe&wlanacname=355747ff48f3a490&ssid=&nasip=365cfa093433e323e7089c2f8c88d379&snmpagentip=&mac=65b502298445ebcfe66587e8fc84aff6&t=wireless-v2&url=7a5a429a7f70b8e1ca1e91441b2be7663adb453801950bc8dd6a81c81e07121b96bdf06b2181dc85d5ec5f4ca13655275f798dbd1726e911&apmac=&nasid=355747ff48f3a490&vid=e7b8e55dea3e3420&port=f428ddd9b6748f28&nasportid=f68f49623ce287a7041122fb4f2c4f26b7172f049cdaa4c2ca509c652870daf18fab5fc677b539b9"
+1510903602727	Marionette	DEBUG	Received DOM event "pageshow" for "http://210.34.130.210/eportal/index.jsp?wlanuserip=a1319f30b1a9d6fb48c65d3ef6032efe&wlanacname=355747ff48f3a490&ssid=&nasip=365cfa093433e323e7089c2f8c88d379&snmpagentip=&mac=65b502298445ebcfe66587e8fc84aff6&t=wireless-v2&url=7a5a429a7f70b8e1ca1e91441b2be7663adb453801950bc8dd6a81c81e07121b96bdf06b2181dc85d5ec5f4ca13655275f798dbd1726e911&apmac=&nasid=355747ff48f3a490&vid=e7b8e55dea3e3420&port=f428ddd9b6748f28&nasportid=f68f49623ce287a7041122fb4f2c4f26b7172f049cdaa4c2ca509c652870daf18fab5fc677b539b9"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510903614147	geckodriver	INFO	geckodriver 0.19.1
+1510903614169	geckodriver	INFO	Listening on 127.0.0.1:2053
+1510903616144	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.8naFNyTCxUwv"
+1510903617749	Marionette	INFO	Enabled via --marionette
+1510903624414	Marionette	INFO	Listening on port 2061
+1510903624577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510903624668	Marionette	DEBUG	Register listener.js for window 4294967297
+1510903644706	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510903644946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510903644946	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510903644983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510903645142	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1510903710079	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1510903711370	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510906672135	geckodriver	INFO	geckodriver 0.19.1
+1510906672157	geckodriver	INFO	Listening on 127.0.0.1:10651
+1510906674079	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.WMBFMRTqKOT4"
+1510906676924	Marionette	INFO	Enabled via --marionette
+1510906682994	Marionette	INFO	Listening on port 10662
+1510906683949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510906684034	Marionette	DEBUG	Register listener.js for window 4294967297
+1510906704293	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510906704522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510906704522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510906704535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510906704702	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510908129870	geckodriver	INFO	geckodriver 0.19.1
+1510908129890	geckodriver	INFO	Listening on 127.0.0.1:12890
+1510908131803	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.6ZG42o4pyUGV"
+1510908135777	Marionette	INFO	Enabled via --marionette
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510908147314	Marionette	INFO	Listening on port 12899
+1510908147738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510908147829	Marionette	DEBUG	Register listener.js for window 4294967297
+1510908168697	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510908169093	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510908169093	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510908169414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510908169681	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+[Child 800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510914104046	geckodriver	INFO	geckodriver 0.19.1
+1510914104061	geckodriver	INFO	Listening on 127.0.0.1:5345
+1510914105384	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.jF6PnxWMTrKL"
+1510914107995	Marionette	INFO	Enabled via --marionette
+[Child 15712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510914121516	Marionette	INFO	Listening on port 5353
+1510914121707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914121800	Marionette	DEBUG	Register listener.js for window 4294967297
+1510914141960	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914142048	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914142048	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510914142062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510914142220	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1510914191056	Marionette	INFO	Enabled via --marionette
+[Child 16896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510914197238	Marionette	INFO	Listening on port 5523
+1510914197463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914197584	Marionette	DEBUG	Register listener.js for window 4294967297
+1510914197615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914197701	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914197701	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510914197713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+1510914198029	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dytt8.net/html/gndy/rihan/list_6_3.html"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:5732
+1510914321531	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.EOhcYnOoUNCF"
+1510914324852	Marionette	INFO	Enabled via --marionette
+1510914331735	Marionette	INFO	Listening on port 5740
+1510914331839	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Promise rejected while context is inactive: Message manager disconnected
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]' when calling method: [nsIHandlerService::store]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
